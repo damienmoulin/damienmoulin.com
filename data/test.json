@@ -1,58 +1,9 @@
-{ "height":40,
- "layers":[
-        {
-         "compression":"zlib",
-         "data":"eJzt1MsKhDAMBVAX+f9vHnA1SNpx0hRdnANFsA8kt\/E4AAAAAACAHeLpD+AUX6PrPOrk8U6rdYzLk5qsPyo9I4ce\/+Zxfacveo1qPuuPSNbIY59f\/ZHlwbo79382J49ed+o+2yOPPrOaVnJiTXbPI5kb7aNf5d8jj73kAQAAAMDbfAAs1wGF",
-         "encoding":"base64",
-         "height":40,
-         "name":"background",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":false,
-         "width":100,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "compression":"zlib",
-         "data":"eJzt2F0LwjAMheGx\/v\/\/LOKF2WmaJW0FlfeBgcjWi5OPoccBAAAAAAAAAPPOHzv3nz0zax88l5rk7a6Fzb6Zi5qsW8nQzoa9MKc6N6d8boMLMa9vbZ6Z59WoFuwtXyaTUT10\/+g9uqeYkXsrfRplG+0pZmRMc6m8a6P+jvLXWuFNs9qRUXY2qEfPZrJrj1Rqwc668nrUflfNSt\/vzEiNl0WUkVef2RpQj171d563X2ZrwM7q3WUx6n09o8m9M7OCuD+z\/3XsmA\/q8aI7I9vflTnQc71n+a8RAAAAAAB8iwemrwMN",
-         "encoding":"base64",
-         "height":40,
-         "name":"collision",
-         "opacity":0.899999976158142,
-         "type":"tilelayer",
-         "visible":true,
-         "width":100,
-         "x":0,
-         "y":0
-        }],
- "nextobjectid":1,
- "orientation":"orthogonal",
- "properties":
-    {
-
-    },
- "renderorder":"right-down",
- "tileheight":32,
- "tilesets":[
-        {
-         "columns":4,
-         "firstgid":1,
-         "image":"..\/images\/tiles.png",
-         "imageheight":32,
-         "imagewidth":128,
-         "margin":0,
-         "name":"v1",
-         "properties":
-            {
-
-            },
-         "spacing":0,
-         "tilecount":4,
-         "tileheight":32,
-         "tilewidth":32
-        }],
- "tilewidth":32,
- "version":1,
- "width":100
-}
+[
+ [ 2,2,2,0,0,0,0,0,0,0,2,2,0,0,0,2,2,2,2,1,1,1,0,0,1,1,1,0,0,1,0,0,0,0,2,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2],
+ [ 2,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2],
+ [ 2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2],
+ [ 2,2,2,2,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2],
+ [ 2,1,1,1,1,1,1,1,1,1,1,2,2,2,1,1,1,1,1,1,0,2,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2],
+ [ 2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2],
+ [ 2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2]
+]
